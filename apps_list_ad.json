@@ -1,17 +1,17 @@
 [
   {
-    name WT Hub,
-    logo httpsyourdomain.comiconswthub.png,
-    url httpsplay.google.comstoreappsdetailsid=com.example.wthub
+    "name": "Web Scanner",
+    "logo": "https://github.com/apprizonapps/apps_list/blob/main/app-assets/webscanner.png",
+    "url": "com.apprizonapps.wptool.whatsweb.webscanner.whatapps.dualapp.stylishfonts.directchat"
   },
   {
-    name Direct Chat,
-    logo httpsyourdomain.comiconsdirectchat.png,
-    url httpsplay.google.comstoreappsdetailsid=com.example.directchat
+    "name": "Direct Chat",
+    "logo": "https://github.com/apprizonapps/apps_list/blob/main/app-assets/directchat.png",
+    "url": "com.skinnovations.directchat.clicktochat.directchattoolsforwhatsapp"
   },
   {
-    name IQ Game,
-    logo httpsyourdomain.comiconsiqgame.png,
-    url httpsplay.google.comstoreappsdetailsid=com.example.iqgame
+    "name": "Reels Downloader",
+    "logo": "https://github.com/apprizonapps/apps_list/blob/main/app-assets/reeldownloader.png",
+    "url": "com.apprizonapps.reelsdownloader.reelvideosaver.reeldownload.reelsaver.allvideodownloader"
   }
 ]
