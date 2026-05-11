@@ -1,0 +1,17 @@
+[
+  {
+    name WT Hub,
+    logo httpsyourdomain.comiconswthub.png,
+    url httpsplay.google.comstoreappsdetailsid=com.example.wthub
+  },
+  {
+    name Direct Chat,
+    logo httpsyourdomain.comiconsdirectchat.png,
+    url httpsplay.google.comstoreappsdetailsid=com.example.directchat
+  },
+  {
+    name IQ Game,
+    logo httpsyourdomain.comiconsiqgame.png,
+    url httpsplay.google.comstoreappsdetailsid=com.example.iqgame
+  }
+]
