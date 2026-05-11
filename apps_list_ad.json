@@ -1,17 +1,17 @@
 [
   {
     "name": "Web Scanner",
-    "logo": "https://github.com/apprizonapps/apps_list/blob/main/app-assets/webscanner.png",
+    "logo": "https://raw.githubusercontent.com/apprizonapps/apps_list/refs/heads/main/app-assets/webscanner.png",
     "url": "com.apprizonapps.wptool.whatsweb.webscanner.whatapps.dualapp.stylishfonts.directchat"
   },
   {
     "name": "Direct Chat",
-    "logo": "https://github.com/apprizonapps/apps_list/blob/main/app-assets/directchat.png",
+    "logo": "https://raw.githubusercontent.com/apprizonapps/apps_list/refs/heads/main/app-assets/directchat.png",
     "url": "com.skinnovations.directchat.clicktochat.directchattoolsforwhatsapp"
   },
   {
     "name": "Reels Downloader",
-    "logo": "https://github.com/apprizonapps/apps_list/blob/main/app-assets/reeldownloader.png",
+    "logo": "https://raw.githubusercontent.com/apprizonapps/apps_list/refs/heads/main/app-assets/reeldownloader.png",
     "url": "com.apprizonapps.reelsdownloader.reelvideosaver.reeldownload.reelsaver.allvideodownloader"
   }
 ]
